@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>1.0.0-alpha-0</Version>
+    <Authors>CodeFractal</Authors>
+    <Company>CodeFractal</Company>
+    <Product>CFToolkit</Product>
+    <Description>A lightweight library for supporting delayed/deferred execution.</Description>
+    <PackageIconUrl>https://s.gravatar.com/avatar/2eb3e29d189c888aaa61ea70b49e66e4?s=256</PackageIconUrl>
+    <RepositoryUrl>https://github.com/CodeFractal/CFToolkit-DelayedExecution.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/CodeFractal/CFToolkit-DelayedExecution</PackageProjectUrl>
+    <PackageId>CFToolkit.DelayedExecution</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyName>CFToolkit.DelayedExecution</AssemblyName>
+    <RootNamespace>CFToolkit.DelayedExecution</RootNamespace>
+  </PropertyGroup>
+
+</Project>
